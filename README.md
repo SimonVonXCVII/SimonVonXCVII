@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning developing a game using Unity
 - 👯 I’m looking to collaborate on Unity
 - 🤔 I’m looking for help with Unity
-- 💬 Ask me about Java, Spring Framework, 💻Mac
+- 💬 Ask me about Java, Spring Framework, 📱iPhone, 💻Mac
 - 📫 How to reach me: g1672943850@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 🎱billiards, 🎣fishing, 🎵music, 🎤singing
+- ⚡ Fun fact: 🎵Music, 🎤Singing, 🎱Billiards, 🎣Fishing
